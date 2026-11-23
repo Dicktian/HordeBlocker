@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: HordeBlocker
+## Notes: Blocks Horde /say and /yell messages for Alliance characters. Automatic, no interface.
+## Version: 1.2
+HordeBlocker.lua
