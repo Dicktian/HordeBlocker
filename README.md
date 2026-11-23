@@ -24,8 +24,4 @@ Creado en **Lua** con la API de World of Warcraft 3.3.5a. El proyecto consta de 
 
 **Compatibilidad:** World of Warcraft: Wrath of the Lich King (3.3.5a). El comportamiento puede variar según el servidor.
 
-## Autor
-
-**Dicktian** — https://github.com/Dicktian
-
 *Proyecto independiente, sin afiliación con Blizzard Entertainment.*
