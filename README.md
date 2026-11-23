@@ -18,8 +18,9 @@ Creado en **Lua** con la API de World of Warcraft 3.3.5a. El proyecto consta de 
 ## Instalación
 
 1. Descarga y descomprime el addon.
-2. Copia la carpeta `HordeBlocker` en `World of Warcraft/Interface/AddOns/`.
-3. Actívalo desde el menú **Complementos** e ingresa con un personaje de la Alianza.
+2. Si la carpeta extraída se llama HordeBlocker-main o HordeBlocker-1.2, elimina el sufijo -main o -1.2 para que quede HordeBlocker.
+3. Copia la carpeta HordeBlocker en World of Warcraft/Interface/AddOns/, y asegúrate de que los archivos .toc y .lua estén directamente dentro de ella, sin carpetas adicionales.
+4. Activa el addon desde Complementos e ingresa con un personaje de la Alianza.
 
 **Compatibilidad:** World of Warcraft: Wrath of the Lich King (3.3.5a). El comportamiento puede variar según el servidor.
 
